@@ -1,7 +1,5 @@
 //Description: Enum class for Rank to get the year in college from an input integer.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 public enum Rank 
 {
