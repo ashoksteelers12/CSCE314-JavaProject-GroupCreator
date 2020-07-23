@@ -1,0 +1,20 @@
+Invalid Rank for the Student: Donte Russo.
+Reason -> Not an Integer in 1-4 Range
+File -> Error Found in Utility.java
+Invalid Rank for the Student: Madiha Blundell.
+Reason -> Not an Integer in 1-4 Range
+File -> Error Found in Utility.java
+Invalid Rank for the Student: Ruairi Martin.
+Reason -> Not an Integer in 1-4 Range
+File -> Error Found in Utility.java
+Invalid Rank for the Student: Sohaib Orozco.
+Reason -> Not an Integer in 1-4 Range
+File -> Error Found in Utility.java
+ODD #, so Extra Student: Harper Munro.
+Reason -> Since odd number of students, there is one student left out.
+          The middle student was chosen as iteration occurred from both ends.
+File -> Error found in TeamBuilder.java
+ODD #, so Extra Student: Kush Sherman.
+Reason -> Since odd number of students, there is one student left out.
+          The middle student was chosen as iteration occurred from both ends.
+File -> Error found in TeamBuilder.java
