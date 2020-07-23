@@ -1,7 +1,5 @@
 //Description: Providing additional information on any person if they are a student, which is UIN and rank.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 public class Student extends Person 
 {
