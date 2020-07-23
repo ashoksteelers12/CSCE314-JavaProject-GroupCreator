@@ -1,7 +1,5 @@
 //Description: Providing additional information on any person if they are a 314 student, which is Java Knowledge and section.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 import java.util.*;
 
