@@ -1,7 +1,5 @@
 //Description: The "main" of the program, in which the TeamBuilder class is accessed to get results.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 public class Driver 
 {
