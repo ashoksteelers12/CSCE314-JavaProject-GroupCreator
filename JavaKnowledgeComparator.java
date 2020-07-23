@@ -1,7 +1,5 @@
 //Description: Sorting the students in ascending order based on Java Knowledge input.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 import java.util.*;
 
