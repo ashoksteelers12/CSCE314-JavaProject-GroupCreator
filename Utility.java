@@ -1,7 +1,5 @@
 //Description: Reads from a data file and writes the grouping results to a text file.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 import java.io.*;
 import java.util.*;
