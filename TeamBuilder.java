@@ -1,7 +1,5 @@
 //Description: Sorts the Students in each section by Java Knowledge, and groups students into pairs.
 //Name: Ashok Meyyappan
-//UIN: 827001687
-//Email: ashoksteelers12@tamu.edu
 
 import java.io.*;
 import java.util.*;
