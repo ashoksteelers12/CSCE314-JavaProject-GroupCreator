@@ -35,3 +35,6 @@ Some assumptions:
 
         502 - Bowen Lupoli (4) Jamila Booth (2)
 
+#### Code Setup
+
+![Code Setup](UML_Code_Setup.png)
