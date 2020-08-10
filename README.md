@@ -1,5 +1,7 @@
 # CSCE314-JavaProject-GroupCreator
 
+## Provided Instructions
+
 You will create groups of 2 people based on responses from a survey in CSV (comma) form linked here. 
 
 There will be many things NOT in the UML below in order to keep it simple. 
