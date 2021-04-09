@@ -1,4 +1,4 @@
-# CSCE314-JavaProject-GroupCreator
+# Group-Creator
 
 ## Provided Instructions
 
