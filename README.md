@@ -4,6 +4,11 @@
 
 A group simulator that creates groups of 2 people based on responses from a survey in a CSV file. This was completed as a project for CSCE 314 in Spring 2020, in which the grouping was intended for students in a Java course. 
 
+## Table of Contents
+- [About](#about)
+  - [How It Groups](#how-it-groups)
+  - [Program Design](#program-design)
+
 ## About
 
 ### How It Groups
