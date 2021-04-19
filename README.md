@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Bimetrical_icon_team_black.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Bimetrical_icon_team_black.svg" alt="PHP Logo" height="100" width="200"></a>
+</p>
+
 # Group Creator
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](http://forthebadge.com)
