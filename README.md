@@ -34,7 +34,3 @@ Class_Data.csv: Contains the survey responses. An actual survey was not performe
 ErrorLog.txt: Contains any errors found in the data. For instance, if there is an odd number of students, the left over student will be added to the error log. Another example is if survey response is not correct, like if a non-integer or 0 rank was provided. 
 
 results.txt: Contains the grouping results. 
-
-<p align="center">
-  Copyright © 2020 ashoksteelers12
-</p>
